@@ -1,0 +1,67 @@
+Print Fact Sheet
+
+WAGE AND HOUR DIVISION
+
+UNITED STATES DEPARTMENT OF LABOR
+
+# Fact Sheet #39I: Adjusting Commensurate Wage Rates under a Section 14(c) Certificate after a Change in the Minimum Wage
+
+**March 2019**
+
+## General Information
+
+The Wage and Hour Division (WHD) of the U.S. Department of Labor issues certificates under section 14(c) of the Fair Labor Standards Act (FLSA) authorizing the employment of workers with disabilities at subminimum wage rates which are less than the Federal minimum wage. These subminimum wage rates are commensurate wage rates based on the worker’s productivity and on the prevailing wage rates paid experienced workers in the area. To ensure workers receive their proper compensation, section 14(c) certificate holders must review the productivity of each worker paid on an hourly basis at periodic intervals, at least every six months (29 C.F.R. 525.9(b)(1)). In addition, the wages for all employees must be adjusted at least once per year to reflect changes in prevailing wage rates (29 C.F.R. 525.12(f)).
+
+An increase in the applicable Federal, state, or locality’s minimum wage rate will most likely impact the prevailing wage rates used to determine commensurate wage rates. This may be the case even if the current prevailing wage rates exceed the new minimum wage rate. In the event of an increase in the applicable minimum wage requirements, to ensure that all workers are properly paid in compliance with the provisions of section 14(c), certificate holders must review each of the prevailing wage rates used to determine commensurate wage rates. There are two ways to adjust prevailing wage rates after a change in the minimum wage: (1) conduct a prevailing wage survey and obtain new wage rates, or (2) calculate the percentage increase of the minimum wage and raise prevailing wage rates by the same percentage. After the revised prevailing wage is determined, certificate holders must adjust all commensurate wage rates to reflect any change in the prevailing wage rates.
+
+## Frequently Asked Questions
+
+### How can an increase in the minimum wage affect the wages I pay my workers with disabilities?
+
+The section 14(c) certificate which authorizes you to pay subminimum wages requires that workers with disabilities receive wages commensurate with experienced workers who are not disabled for the same work in the same area. An increase in the minimum wage will most likely affect the prevailing wage rates paid to these experienced workers. In order to assure continued payment of proper commensurate wage rates, you should review and adjust all prevailing wage rates you use to calculate your workers’ commensurate wages.
+
+### What if my current computed prevailing wage rates are less than the new minimum wage?
+
+Commensurate wage rates that are based on prevailing wage rates less than the new minimum wage must be increased, effective on the date of the minimum wage rate increase, and you must recalculate commensurate wage rates based on the new, higher prevailing wage rates. A prevailing wage rate may not be less than the Federal minimum wage (29 C.F.R. 525.10(h)). Commensurate wage rates paid to workers with disabilities must reflect these increases for all hours worked on or after the date of increase.
+
+### What if my current prevailing wage rates already exceed the new minimum wage?
+
+Because the increase in the minimum wage will probably impact most prevailing wage rates, including those already greater than the new minimum wage, you are still required to review and adjust, if necessary, the prevailing wage rates used to determine commensurate wage rates.
+
+### How do I determine new prevailing wage rates in my area?
+
+All prevailing wage rates will need to be reexamined to assess the impact of the increase in the minimum wage. You may contact the sources from which you originally obtained prevailing wage rate information to determine the effect of the increase of the minimum wage on the wage rates of their experienced workers for the specific job you are surveying, or, if necessary, obtain current prevailing wage data from new sources. Once you have completed your wage survey, you should adjust the wage rates of workers with disabilities no later than the next full pay period after the prevailing wage rates are reexamined. The adjustment should be made retroactive to 30 days after the date of the increase of the minimum wage rate. You should make sure the updated experienced worker wage rates you collect reflect the new minimum wage. As with all prevailing wage surveys, you should document these survey contacts and have this information available for WHD review (see 29 C.F.R. 525.9(b)(2), 525.10, 525.12(f) and 525.16(c)).
+
+### Is there any alternative method for adjusting commensurate wage rates that does not require me to conduct a new survey?
+
+Yes, you may elect to make a blanket adjustment to prevailing wage rates based on the percentage increase in the minimum wage. This change should be accomplished in the next complete pay period following the minimum wage increase. For example, if the minimum wage increased from $8.15 per hour to $9.73 per hour effective on February 1st, the percentage increase would be 19.39% ($9.73 / $8.15 = 1.1939). In this example, you could adjust all prevailing wage rates in the first pay period following February 1st by 19.39% and not conduct a new prevailing wage rate survey until you would otherwise be required to do so to maintain your section 14(c) certificate.
+
+Continuing the example above, if your current prevailing wage rate used is $8.50 per hour and an hourly paid worker with disabilities has a productivity rating of 65% and is paid $5.53 per hour (0.65 × $8.50), you could adjust the prevailing wage rate to $10.15 per hour ($8.50 × 1.1939) and raise that worker’s commensurate wage rate to $6.5975 or $6.60 per hour (0.65 × $10.15).
+
+To make this blanket adjustment to piece rates, multiply the existing piece rate by the percentage increase in the minimum wage. For example, if your current piece rate is $0.095 per piece, the adjusted piece rate would be $0.1135 ($0.095 × 1.1939 = $0.1135).
+
+Be sure to document the prevailing wage adjustment clearly in your records.
+
+**Note:** Employers who choose to make blanket adjustments to the prevailing wage rates at the time of an increase in the minimum wage are still required to conduct annual reviews of the prevailing wage rates on or before the anniversary date of their last prevailing wage surveys.
+
+### How much time do I have to complete the wage adjustment process?
+
+You may not base a commensurate wage rate on a prevailing wage rate that is less than the statutory minimum wage. Therefore, any prevailing wage rate less than the new minimum wage must be raised to that level by the effective date of the minimum wage rate increase. The “ripple effect” of the increased minimum wage generally will not take place immediately so you must wait at least 30 days after the increase to reexamine your prevailing wage rates and must conclude your examination no later than 60 days after the effective date of the minimum wage increase. Upon completion of the survey process, any increases in prevailing wage rates must be reflected in the commensurate wage rates of workers with disabilities by the next complete pay period. If you decide to increase wage rates using the blanket adjustment percentage method described above, this should be completed by the next full pay period after the minimum wage increase occurs.
+
+### What will happen if these adjustments in wage rates are not completed in a timely manner?
+
+All adjustments to prevailing wage rates must be reflected by a corresponding adjustment to commensurate wage rates. These changes must be made no later than the next full pay period following the reexamination and/or adjustment of the prevailing wage rates. Failure to do so may result in wage violations of the FLSA and affect the terms and conditions of your section 14(c) certificate. This may result in a back wage liability to your workers.
+
+### My facility does work under a McNamara-O’Hara Service Contract Act (SCA) covered contract for a Federal agency and I base our commensurate wage rates on the wage determination rate required by the contract. Do I need to adjust these rates?
+
+It depends. Wages based on a wage determination issued under the SCA do not have to be increased unless the wage determination rate is less than a new Federal minimum wage. In such instances, the wage determination rate must be replaced by the new minimum wage because commensurate wage rates must be based on a prevailing wage rate not less than the Federal minimum wage (29 C.F.R. 525.12(f)). However, an increase to the state or local minimum wage requirements would not affect the wage determination issued under the SCA and no adjustment would be required.
+
+![](/sites/dolgov/files/WHD/fact-sheets/images/WHD-QR.png)
+
+### Where to Obtain Additional Information
+
+**For additional information, visit our Wage and Hour Division Website: [http://www.dol.gov/agencies/whd](/agencies/whd) and/or call our toll-free information and helpline, available 8 a.m. to 5 p.m. in your time zone, 1-866-4USWAGE (1-866-487-9243).**
+
+This publication is for general information and is not to be considered in the same light as official statements of position contained in the regulations.
+
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way. This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.
