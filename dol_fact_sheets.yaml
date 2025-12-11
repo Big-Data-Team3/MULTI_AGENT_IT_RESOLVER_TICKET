@@ -1,0 +1,606 @@
+dol_fact_sheets:
+  - name: fs_1_flsa_construction
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/1-flsa-construction"
+
+  - name: fs_2_flsa_restaurants
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/2-flsa-restaurants"
+
+  - name: fs_2a_child_labor_restaurants
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/2a-child-labor-restaurants"
+
+  - name: fs_3_flsa_professional_offices
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/3-flsa-professional-offices"
+
+  - name: fs_4_flsa_security_guards
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/4-flsa-security-guards"
+
+  - name: fs_5_flsa_real_estate
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/5-flsa-real-estate"
+
+  - name: fs_6_flsa_retail
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/6-flsa-retail"
+
+  - name: fs_7_flsa_state_local_government
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/7-flsa-state-local-government"
+
+  - name: fs_8_flsa_police_firefighters
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/8-flsa-police-firefighters"
+
+  - name: fs_9_flsa_manufacturers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/9-flsa-manufacturers"
+
+  - name: fs_10_flsa_wholesale
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/10-flsa-wholesale"
+
+  - name: fs_11_flsa_auto_dealers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/11-flsa-auto-dealers"
+
+  - name: fs_12_agricultural_employment_flsa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/12-agricultural-employment-flsa"
+
+  - name: fs_13_flsa_employment_relationship
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship"
+
+  - name: fs_14_flsa_coverage
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/14-flsa-coverage"
+
+  - name: fs_14a_flsa_non_profits
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/14a-flsa-non-profits"
+
+  - name: fs_15_tipped_employees_flsa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/15-tipped-employees-flsa"
+
+  - name: fs_15b_managers_supervisors_tips_flsa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/15b-managers-supervisors-tips-flsa"
+
+  - name: fs_16_flsa_wage_deductions
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/16-flsa-wage-deductions"
+
+  - name: fs_17a_overtime
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17a-overtime"
+
+  - name: fs_17b_overtime_executive
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17b-overtime-executive"
+
+  - name: fs_17c_overtime_administrative
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17c-overtime-administrative"
+
+  - name: fs_17d_overtime_professional
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17d-overtime-professional"
+
+  - name: fs_17e_overtime_computer
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17e-overtime-computer"
+
+  - name: fs_17f_overtime_outside_sales
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17f-overtime-outside-sales"
+
+  - name: fs_17g_overtime_salary
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17g-overtime-salary"
+
+  - name: fs_17h_overtime_highly_compensated
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17h-overtime-highly-compensated"
+
+  - name: fs_17i_overtime_blue_collar
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17i-overtime-blue-collar"
+
+  - name: fs_17j_overtime_first_responders
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17j-overtime-first-responders"
+
+  - name: fs_17k_overtime_veterans
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17k-overtime-veterans"
+
+  - name: fs_17l_overtime_claims_adjusters
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17l-overtime-claims-adjusters"
+
+  - name: fs_17m_overtime_financial_services
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17m-overtime-financial-services"
+
+  - name: fs_17n_overtime_nurses
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17n-overtime-nurses"
+
+  - name: fs_17o_overtime_technicians
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17o-overtime-technicians"
+
+  - name: fs_17p_overtime_construction
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17p-overtime-construction"
+
+  - name: fs_17q_overtime_journalists
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17q-overtime-journalists"
+
+  - name: fs_17s_overtime_educational_institutions
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/17s-overtime-educational-institutions"
+
+  - name: fs_whdfs17t
+    url: "https://www.dol.gov/agencies/whd/overtime/whdfs17t"
+
+  - name: fs_whdfs17u
+    url: "https://www.dol.gov/agencies/whd/overtime/whdfs17u"
+
+  - name: fs_18_flsa_seasonal_amusement
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/18-flsa-seasonal-amusement"
+
+  - name: fs_19_flsa_motor_carrier
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/19-flsa-motor-carrier"
+
+  - name: fs_20_flsa_commissions_retail
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/20-flsa-commissions-retail"
+
+  - name: fs_21_flsa_recordkeeping
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping"
+
+  - name: fs_22_flsa_hours_worked
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked"
+
+  - name: fs_23_flsa_overtime_pay
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/23-flsa-overtime-pay"
+
+  - name: fs_24_flsa_homeworkers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/24-flsa-homeworkers"
+
+  - name: fs_25_flsa_home_healthcare
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/25-flsa-home-healthcare"
+
+  - name: fs_26_h2a
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26-H2A"
+
+  - name: fs_26a_h2a_recruitment_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26a-recruitment-requirements-H-2A"
+
+  - name: fs_26b_h2a_disclosure_job_order_notice
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26b-disclosure-job-order-notice-H-2A"
+
+  - name: fs_26c_h2a_records_retention
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26c-records-retention-requirements-H-2A"
+
+  - name: fs_26d_h2a_meal_obligations
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26d-meal-obligations-H-2A"
+
+  - name: fs_26e_h2a_job_hours_three_fourths_guarantee
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26e-job-hours-three-fourths-guarantee-H-2A"
+
+  - name: fs_26f_h2a_wage_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26f-wage-requirements-H-2A"
+
+  - name: fs_26g_h2a_housing_standards
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26g-housing-standards-for-rental-and-public-accommodations-H-2A"
+
+  - name: fs_26h_h2a_labor_contractor_surety_bonds
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/26h-h2a-labor-contractor-surety-bonds"
+
+  - name: fs_27_flsa_new_businesses
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/27-flsa-new-businesses"
+
+  - name: fs_28_fmla
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28-fmla"
+
+  - name: fs_28a_fmla_employee_protections
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28a-fmla-employee-protections"
+
+  - name: fs_28b_fmla_in_loco_parentis
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28B-fmla-in-loco-parentis"
+
+  - name: fs_28c_fmla_eldercare
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28C-fmla-eldercare"
+
+  - name: fs_28d_fmla_employer_notification
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28d-fmla-employer%20notification"
+
+  - name: fs_28e_fmla_employee_notice
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28e-fmla-employee-notice"
+
+  - name: fs_28f_fmla_qualifying_reasons
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28f-fmla-qualifying-reasons"
+
+  - name: fs_28g_fmla_serious_health_condition
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28g-fmla-serious-health-condition"
+
+  - name: fs_28h_fmla_12_month_period
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28h-fmla-12-month-period"
+
+  - name: fs_28i_fmla_leave_calculation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28i-fmla-leave-calculation"
+
+  - name: fs_28j_fmla_airline_crew
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28j-fmla-airline-crew"
+
+  - name: fs_28k_fmla_adult_children
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28k-fmla-adult-children"
+
+  - name: fs_28l_fmla_spouse
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28l-fmla-spouse"
+
+  - name: fs_28m_fmla_military_family
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28m-fmla-military-family"
+
+  - name: fs_28ma_fmla_servicemember_caregiver
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28ma-fmla-servicemember-caregiver"
+
+  - name: fs_28mb_fmla_veteran_caregiver
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28mb-fmla-veteran-caregiver"
+
+  - name: fs_28mc_fmla_exigency_leave
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28mc-fmla-exigency-leave"
+
+  - name: fs_28n_fmla_joint_employment
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28n-fmla-joint-employment"
+
+  - name: fs_28o_mental_health
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28o-mental-health"
+
+  - name: fs_28p_taking_leave_health_condition
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28p-taking-leave-when-you-or-family-has-health-condition"
+
+  - name: fs_28q_taking_leave_birth_placement_child
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28q-taking-leave-for-birth-placement-child"
+
+  - name: fs_28s_fmla_school_employees
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/28s-rules-for-certain-school-employees-fmla"
+
+  - name: fs_30_cppa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/30-cppa"
+
+  - name: fs_31_flsa_nursing_care
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/31-flsa-nursing-care"
+
+  - name: fs_32_minimum_wage_youth
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/32-minimum-wage-youth"
+
+  - name: fs_33_flsa_group_homes
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/33-flsa-group-homes"
+
+  - name: fs_34_child_labor_motor_vehicles
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/34-child-labor-motor-vehicles"
+
+  - name: fs_35_mspa_joint_employment
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/35-mspa-joint-employment"
+
+  - name: fs_36_eppa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/36-eppa"
+
+  - name: fs_37_child_labor_amusement_parks
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/37-child-labor-amusement-parks"
+
+  - name: fs_38_child_labor_grocery_stores
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/38-child-labor-grocery-stores"
+
+  - name: fs_39_14c_subminimum_wage
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39-14c-subminimum-wage"
+
+  - name: fs_39a_14c_obtain_certificate
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39a-14c-obtain-certificate"
+
+  - name: fs_39b_14c_prevailing_wages
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39b-14c-prevailing-wages"
+
+  - name: fs_39c_14c_hours_worked
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39c-14c-hours-worked"
+
+  - name: fs_39d_14c_piece_rate
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39d-14c-piece-rate"
+
+  - name: fs_39e_14c_hourly_wages
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39e-14c-hourly-wages"
+
+  - name: fs_39f_14c_sca
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39f-14c-sca"
+
+  - name: fs_39h_limitations_subminimum_wages
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39H-Limitations-on-the-Payment-of-Subminimum-Wages"
+
+  - name: fs_39ha_pre_employment_youth_disabilities
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39Ha-Pre-Employment-Requirements-for-Youth-with-Disabilities"
+
+  - name: fs_39hb_limitations_subminimum_all_employees
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39Hb-Limitations-on-the-Payment-of-Subminimum-Wages-for-All-Employees"
+
+  - name: fs_39i_14c_change_minimum_wage
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39i-14c-change-in-minimum-wage"
+
+  - name: fs_39j_minimum_wages_workers_disabilities
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/39j-Minimum-Wages-For-Workers-With-Disabilities"
+
+  - name: fs_40_child_labor_farms
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/40-child-labor-farms"
+
+  - name: fs_41_child_labor_compliance_survey
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/41-child-labor-compliance-survey"
+
+  - name: fs_43_child_labor_non_agriculture
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture"
+
+  - name: fs_44_flsa_visits_to_employers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/44-flsa-visits-to-employers"
+
+  - name: fs_45_flsa_hotels
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/45-flsa-hotels"
+
+  - name: fs_46_flsa_daycare
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/46-flsa-daycare"
+
+  - name: fs_47_flsa_foreign_commercial_vehicles
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/47-flsa-foreign-commercial-vehicles"
+
+  - name: fs_48_hoffman_plastics
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/48-hoffman-plastics"
+
+  - name: fs_49_mspa
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/49-mspa"
+
+  - name: fs_50_mspa_transportation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/50-mspa-transportation"
+
+  - name: fs_51_osh_act_field_sanitation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/51-osh-act-field-sanitation"
+
+  - name: fs_52_healthcare_child_labor
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/52-healthcare-child-labor"
+
+  - name: fs_53_healthcare_hours_worked
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/53-healthcare-hours-worked"
+
+  - name: fs_54_healthcare_overtime
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/54-healthcare-overtime"
+
+  - name: fs_55_child_labor_wood_working
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/55-child-labor-wood-working"
+
+  - name: fs_56_flsa_stock_options
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/56-flsa-stock-options"
+
+  - name: fs_56a_regular_rate
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/56a-regular-rate"
+
+  - name: fs_56b_scheduling_penalties_regular_rate
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/56b-scheduling-penalties-regular-rate"
+
+  - name: fs_56c_bonuses
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/56c-bonuses"
+
+  - name: fs_57_child_labor_balers_compactors
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/57-child-labor-balers-compactors"
+
+  - name: fs_58_child_labor_cooking_baking
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/58-child-labor-cooking-baking"
+
+  - name: fs_60_child_labor_lifeguards
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/60-child-labor-lifeguards"
+
+  - name: fs_61_flsa_day_laborers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/61-flsa-day-laborers"
+
+  - name: fs_62_index_h1b
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62-index-h1b"
+
+  - name: fs_62a_h1b_visa_reform_act
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62a-h1b-visa-reform-act"
+
+  - name: fs_62b_h1b_employer
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62b-h1b-employer"
+
+  - name: fs_62c_h1b_dependent_employer
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62c-h1b-dependent-employer"
+
+  - name: fs_62d_h1b_recordkeeping
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62d-h1b-recordkeeping"
+
+  - name: fs_62e_h1b_recordkeeping_dependent_willful_violator
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62e-h1b-recordkeeping-dependent-willful-violator"
+
+  - name: fs_62f_h1b_recordkeeping_public_view
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62f-h1b-recordkeeping-public-view"
+
+  - name: fs_62g_h1b_required_wage
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62g-h1b-required-wage"
+
+  - name: fs_62h_h1b_pay_deductions
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62h-h1b-pay-deductions"
+
+  - name: fs_62i_h1b_nonproductive_time
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62i-h1b-nonproductive-time"
+
+  - name: fs_62j_h1b_worksite
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62j-h1b-worksite"
+
+  - name: fs_62k_h1b_short_term
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62K-h1b-short-term"
+
+  - name: fs_62l_h1b_benefits
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62l-h1b-benefits"
+
+  - name: fs_62m_h1b_notice
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62m-h1b-notice"
+
+  - name: fs_62n_h1b_displacement
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62n-h1b-displacement"
+
+  - name: fs_62o_h1b_recruitment
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62o-h1b-recruitment"
+
+  - name: fs_62p_h1b_recruitment_standards
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62p-h1b-recruitment-standards"
+
+  - name: fs_62q_h1b_exempt_workers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62q-h1b-exempt-workers"
+
+  - name: fs_62r_h1b_whistleblowers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62r-h1b-whistleblowers"
+
+  - name: fs_62s_h1b_willful_violators
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62s-h1b-willful-violators"
+
+  - name: fs_62t_h1b_compliance
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62t-h1b-compliance"
+
+  - name: fs_62u_h1b_enforcement_authority
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62u-h1b-enforcement-authority"
+
+  - name: fs_62v_h1b_lca
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62v-h1b-LCA"
+
+  - name: fs_62w_h1b_portability
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62w-H1b-portability"
+
+  - name: fs_62x_h1b1
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62x-h1b1"
+
+  - name: fs_62y_e3_program_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/62y-e3-program-requirements"
+
+  - name: fs_63_reforestation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/63-reforestation"
+
+  - name: fs_63a_pine_straw
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/63A-pine-straw"
+
+  - name: fs_64_flsa_call_centers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/64-flsa-call-centers"
+
+  - name: fs_65_flsa_student_learners
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/65-flsa-student-learners"
+
+  - name: fs_66_dbra
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66-dbra"
+
+  - name: fs_66a_dbra
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66a"
+
+  - name: fs_66b_dbra_interplay
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66B-interplay-between-DBRA-MSA-PCA"
+
+  - name: fs_66c_dbra_labor_standards
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66C-DBRA-labor-standards"
+
+  - name: fs_66d_dbra_application_general
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66D-application-general-WD-DBRA"
+
+  - name: fs_66e_dbra_compliance_fringe_benefits
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/66E-DBRA-compliance-fringe-benefit-requirements"
+
+  - name: fs_67_sca
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/67-sca"
+
+  - name: fs_67b_sca_meeting_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/67b-meeting-requirements-sca"
+
+  - name: fs_67c_sca_usps
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/67c-application-SCA-USPS"
+
+  - name: fs_68_h1b_fulltime_employee
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/68-h1b-fulltime-employee"
+
+  - name: fs_69_h2b_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/69-h2b-requirements"
+
+  - name: fs_70_flsa_furloughs
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/70-flsa-furloughs"
+
+  - name: fs_71_flsa_internships
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/71-flsa-internships"
+
+  - name: fs_72_flsa_disasters_recovery
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/72-flsa-disasters-recovery"
+
+  - name: fs_72a_flsa_major_disaster_claims_adjusters
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/72a-flsa-major-disaster-claims-adjusters"
+
+  - name: fs_73_flsa_break_time_nursing_mothers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/73-flsa-break-time-nursing-mothers"
+
+  - name: fs_73a_flsa_nursing_mothers_general_guidance
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/73a-flsa-nursing-mothers-at-work-general-guidance"
+
+  - name: fs_74_child_labor_roofing
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/74-child-labor-roofing"
+
+  - name: fs_75_child_labor_peddling
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/75-child-labor-peddling"
+
+  - name: fs_76_flsa_car_wash
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/76-flsa-car-wash"
+
+  - name: fs_77a_flsa_prohibiting_retaliation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation"
+
+  - name: fs_77b_fmla_protections
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/77b-fmla-protections"
+
+  - name: fs_77c_mspa_prohibiting_retaliation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/77c-mspa-prohibiting-retaliation"
+
+  - name: fs_77d_h2a_prohibiting_retaliation
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/77d-h2a-prohibiting-retaliation"
+
+  - name: fs_78_h2b_overview
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78-h2b-overview"
+
+  - name: fs_78a_h2b_corresponding_employment
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78a-h2b-corresponding-employment"
+
+  - name: fs_78b_h2b_recruiting
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78b-h2b-recruiting"
+
+  - name: fs_78c_h2b_wage_requirements
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78c-h2b-wage-requirements"
+
+  - name: fs_78d_h2b_deductions
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78d-h2b-deductions"
+
+  - name: fs_78e_h2b_job_hours
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78e-h2b-job-hours"
+
+  - name: fs_78f_h2b_fees
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78f-h2b-fees"
+
+  - name: fs_78g_h2b_disclosure_worker_rights
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78g-h2b-disclosure-worker-rights"
+
+  - name: fs_78h_h2b_retaliation_prohibited
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78h-h2b-retaliation-prohibited"
+
+  - name: fs_78i_h2b_record_retention
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78i-h2b-record-retention"
+
+  - name: fs_78j_h2b_visa_cap_obligations
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78J-Employer-Obligations-Under-the-Temporary-H-2B-Visa-Cap"
+
+  - name: fs_78k_h2b_visa_cap_2023
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/78k-employer-obligations-under-h2b-visa-cap-2023"
+
+  - name: fs_79_flsa_private_home_domestic_service
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79-flsa-private-home-domestic-service"
+
+  - name: fs_79a_flsa_companionship
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79a-flsa-companionship"
+
+  - name: fs_79b_flsa_live_in_domestic_workers
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79b-flsa-live-in-domestic-workers"
+
+  - name: fs_79c_flsa_domestic_service_recordkeeping
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79c-flsa-domestic-service-recordkeeping"
+
+  - name: fs_79d_flsa_domestic_service_hours_worked
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79d-flsa-domestic-service-hours-worked"
+
+  - name: fs_79f_flsa_publicly_funded_programs
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79f-flsa-publicly-funded-programs"
+
+  - name: fs_79g_flsa_shared_living
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/79g-flsa-shared-living"
+
+  - name: fs_80_flsa_hot_goods
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/80-flsa-hot-goods"
+
+  - name: fs_81_dbra_surveys
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/81-DBRA-Surveys"
+
+  - name: fs_82_bonus_rule
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/82-bonus-rule"
+
+  - name: fs_83a_minimum_wage_contractors
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/83a-Establishing-A-Minimum-Wage-For-Contractors"
+
+  - name: fs_84_paid_sick_leave_federal_contractors
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/84-paid-sick-leave-federal-contractors"
+
+  - name: fs_85_collective_bargaining_sca
+    url: "https://www.dol.gov/agencies/whd/fact-sheets/85-collective-bargaining-agreements-of-the-service-contract-act"
