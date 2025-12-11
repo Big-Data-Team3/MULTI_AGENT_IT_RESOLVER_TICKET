@@ -1,0 +1,95 @@
+# ==========================================
+# PYTHON & ENVIRONMENT
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+.env
+.env.*
+*.env
+
+# ==========================================
+# IDE / OS FILES
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# SELECTIVE DATA FOLDER BEHAVIOR
+# We IGNORE all of /data except:
+#    - data/dol_fact_sheets_md
+#    - data/parsed_output
+# ==========================================
+
+# Ignore everything inside /data
+data/*
+
+# Allow these two folders
+!data/dol_fact_sheets_md/
+!data/parsed_output/
+
+# Allow all content inside those folders
+!data/dol_fact_sheets_md/**
+!data/parsed_output/**
+
+# ==========================================
+# KNOWLEDGE BASE FILES (auto-generated)
+# ==========================================
+knowledge_base.json
+knowledge_base.csv
+knowledge_base_ITS.json
+knowledge_base_HR.json
+knowledge_base_*.json
+knowledge_base_*.csv
+
+# ==========================================
+# LARGE OR EXTERNAL DATA SOURCES
+# ==========================================
+stacksample/
+*.zip
+kaggle.json
+
+# ==========================================
+# PDF PARSER / RAG OUTPUT
+# ==========================================
+parsed_output/
+output_markdown_with_annotations.md
+pdf_page_counts.csv
+troubleshoot_output.json
+
+# ==========================================
+# LOGS / CHECKPOINTS / TEMP FILES
+# ==========================================
+logs/
+*.checkpoint
+*.ckpt
+*.tmp
+
+# ==========================================
+# CLOUD / API / SECRET KEYS
+# ==========================================
+*.key
+*.pem
+*.cert
+service_account.json
+config.yaml
+
+# ==========================================
+# JUPYTER
+# ==========================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================================
+# BUILD / DIST
+# ==========================================
+build/
+dist/
