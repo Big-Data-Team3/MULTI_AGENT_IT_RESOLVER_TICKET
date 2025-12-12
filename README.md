@@ -40,11 +40,9 @@ The platform is fully containerized, and deployed on **Google Cloud Run**, with 
 
 ## 🧠 System Architecture
 
-### 🧱 Architecture Diagram (Placeholder)
+### 🧱 Architecture Diagram
 
-```
-[ Architecture Diagram Coming Soon ]
-```
+![Architecture Diagram](assets/autogen-support-assistant.png)
 
 ---
 
@@ -179,18 +177,17 @@ OPENAI_MODEL=<model-name>
 ## 🎥 Demo Video
 
 📺 **YouTube Demo Placeholder**  
-```
-[ YouTube Link Coming Soon ]
-```
+
+https://youtu.be/QECQXVFFGuM
 
 ---
 
 ## 📘 Documentation
 
-📄 **Google Docs / Final Report Placeholder**  
-```
-[ Google Docs Link Coming Soon ]
-```
+📄 **Google Docs**  
+
+https://codelabs-preview.appspot.com/?file_id=1eBSyazOjvroYT7ssjjQkxzGdYaeAGfSuqOXTACvYKAA#0
+
 
 ---
 
