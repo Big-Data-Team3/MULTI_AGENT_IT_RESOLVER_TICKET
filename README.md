@@ -177,9 +177,8 @@ OPENAI_MODEL=<model-name>
 ## 🎥 Demo Video
 
 📺 **YouTube Demo Placeholder**  
-```
-[ YouTube Link Coming Soon ]
-```
+
+https://youtu.be/QECQXVFFGuM
 
 ---
 
