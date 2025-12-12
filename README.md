@@ -40,11 +40,9 @@ The platform is fully containerized, and deployed on **Google Cloud Run**, with 
 
 ## 🧠 System Architecture
 
-### 🧱 Architecture Diagram (Placeholder)
+### 🧱 Architecture Diagram
 
-```
-[ Architecture Diagram Coming Soon ]
-```
+![Architecture Diagram](assets/autogen-support-assistant.png)
 
 ---
 
