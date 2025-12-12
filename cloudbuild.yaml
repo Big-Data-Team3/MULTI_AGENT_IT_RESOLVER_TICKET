@@ -1,0 +1,14 @@
+steps:
+- name: gcr.io/cloud-builders/docker
+  args:
+    [
+      "build",
+      "-t",
+      "gcr.io/steady-force-480904-m5/report-app",
+      "-f",
+      "Dockerfile.report",
+      "."
+    ]
+
+images:
+- "gcr.io/steady-force-480904-m5/report-app"
